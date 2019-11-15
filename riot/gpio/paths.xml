@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath>/home/student/Projects/riot_unwds/boards/unwd-range-l1-r3/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/boards/common/unwd/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/core/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/cpu/stm32l1/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/cpu/cortexm_common/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/cpu/cortexm_common/periph/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/cpu/stm32_common/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/cpu/stm32_common/periph/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/cpu/stm32l1/periph/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/drivers/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/drivers/periph_common/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/drivers/sx127x/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/auto_init/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/checksum/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/crypto/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/crypto/modes/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/div/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/fmt/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/hashes/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/iolist/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/isrpipe/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/lptimer/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/luid/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/newlib_syscalls_default/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/od/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/pm_layered/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/ps/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/random/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/random/tinymt32/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/shell/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/shell/commands/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/stdio_uart/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/tsrb/include</includepath>
+<includepath>/home/student/Projects/riot_unwds/sys/xtimer/include</includepath>
+
+</language>
+<language name="Object File">
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>
