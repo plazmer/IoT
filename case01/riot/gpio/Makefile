@@ -6,7 +6,7 @@ BOARD ?= unwd-range-l1-r3
 
 # This has to be the absolute path to the RIOT base directory:
 #RIOTBASE ?= $(CURDIR)/../..
-RIOTBASE = /home/u9122197373/Projects/riot_unwds
+RIOTBASE = /home/student/Projects/riot_unwds
 
 #list from apps/loralan-gateway
 FEATURES_REQUIRED += periph_gpio
