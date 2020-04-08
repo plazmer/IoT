@@ -108,6 +108,8 @@ loop() {
   - **RISING** - в момент, когда начинается переход от LOW к HIGH
   - **FALLING** - при переходе от HIGH к LOW
 
+Лучше всего в обработчике прерывания выставлять какой-то флаг, который уже будет приниматься к обработке в основном потоке программы.
+
 [Пример](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/):
 
 ```c++
