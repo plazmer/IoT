@@ -41,8 +41,8 @@
 
 Более детально про каждый контроллер можно узнать в технических спецификациях (datasheet), все вопросы лучше уточнять в первоисточниках, поскольку при чужих пересказах некоторые вещи могут теряться.
 
-[ATMega328](ATmega328_Datasheet.pdf) или [внешняя ссылка](http://www.mouser.com/pdfdocs/gravitech_atmega328_datasheet.pdf)
-[ATMega328p](ATmega328P_Datasheet.pdf) или [внешняя ссылка](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
-[ATmega32U4](ATmega16U4-32U4_Datasheet.pdf) или внешняя ссылка
+[ATMega328](ATmega328_Datasheet.pdf) или [внешняя ссылка](http://www.mouser.com/pdfdocs/gravitech_atmega328_datasheet.pdf)  
+[ATMega328p](ATmega328P_Datasheet.pdf) или [внешняя ссылка](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)  
+[ATmega32U4](ATmega16U4-32U4_Datasheet.pdf) или [внешняя ссылка](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)  
 
 В случае с Arduino Micro (**ATmega32U4**) контроллер аппаратно поддерживает **USB 2.0**, поэтому контроллер можно использовать для эмуляции клавиатуры, например, в отличие от двух других, где взаимодействие с USB берёт на себя отдельный контроллер USB-2-Serial, который умеет только представляться виртуальный COM портом и используется лишь для прошивки и обмена данными.
