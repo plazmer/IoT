@@ -39,3 +39,7 @@ https://www.tinkercad.com/things/gYRxIxD3n8B
 https://www.tinkercad.com/things/jaBbJDvaS3K
 
 ![](img/quiz_07_security.png)
+
+Рекомендация: строить работу логики на основе конечного автомата.
+
+![](img/quiz_07_diagram.png)
