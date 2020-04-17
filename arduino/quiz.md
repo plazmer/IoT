@@ -46,6 +46,14 @@ https://www.tinkercad.com/things/jaBbJDvaS3K
 
 # 8. Асинхронность
 
+https://www.tinkercad.com/things/6lcrpLedn81
+
 ![](img/quiz_08_nodelay.png)
 
 Задача - проигрывать музыку и мигать светодиодами, обходясь без delay() или аналогичных функций.
+
+# 9. Счетчик посетителей
+
+https://www.tinkercad.com/things/4rByfMGiR6J
+
+![](img/quiz_09_counter.png)
