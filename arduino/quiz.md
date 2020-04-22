@@ -57,3 +57,9 @@ https://www.tinkercad.com/things/6lcrpLedn81
 https://www.tinkercad.com/things/4rByfMGiR6J
 
 ![](img/quiz_09_counter.png)
+
+# 10. Умные шторы с освещением
+
+https://www.tinkercad.com/things/jUorSIxTyy3
+
+![](img/quiz_10_curtains.png)
